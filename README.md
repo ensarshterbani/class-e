@@ -6,6 +6,8 @@ An Android application for class management and e-learning built with Kotlin and
 
 Class-E is a mobile application that allows users to manage courses, create posts, and interact with other students and professors. The app provides functionality for course enrollment, assignment tracking, and communication within academic settings.
 
+In order to run and test the app, download the ClassE.apk file to your Android phone.
+
 ## Features
 
 - User authentication (Login/Sign up)
